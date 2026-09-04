@@ -401,7 +401,7 @@ const Footer = () => {
       <span role="img" aria-label="heart">
         ❤️
       </span>
-      {" "}by Your Tall Handsome man
+      {" "}by Your Taller Handsome Man
     </a>
   );
 };
@@ -410,9 +410,3 @@ const Footer = () => {
 
 
 
-
-
-// ! Pathways-
-// https://app.spline.design/file/48a9d880-40c9-4239-bd97-973aae012ee0
-// https://app.spline.design/file/72e6aee2-57ed-4698-afa7-430f8ed7bd87
-Odoo eniig
